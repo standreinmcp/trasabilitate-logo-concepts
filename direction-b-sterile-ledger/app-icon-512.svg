@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs><linearGradient id="gTile" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="512" y2="512">
+    <stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#4338ca"/>
+  </linearGradient></defs>
+  <rect width="512" height="512" rx="115" fill="url(#gTile)"/>
+  <g transform="translate(106,106) scale(3.125)"><path d="M48 8 L82 21 V47 C82 66 68 80 48 88 C28 80 14 66 14 47 V21 Z" fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linejoin="round"/><rect x="30" y="33" width="36" height="6.5" rx="3.25" fill="#ffffff"/><rect x="30" y="45" width="36" height="6.5" rx="3.25" fill="#ffffff"/><line x1="32" y1="58.2" x2="62" y2="58.2" stroke="#ffffff" stroke-opacity="0.72" stroke-width="5.5" stroke-linecap="round" stroke-dasharray="7.5 6"/></g>
+</svg>
